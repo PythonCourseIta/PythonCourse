@@ -1,0 +1,21 @@
+Strings methods:
+	* Capitalize --- Make first letter bigger (upper)
+	* Count 	 --- Return a number of occurrens of a substring
+	* Endswith   --- Return True if a substring finished with a given char
+	* Find 		 --- Return the lowest index in S where a substring is found
+	* Format 	 --- Return a formatted string
+	* Index		 --- Return the position number of a substring in a string
+	* Isalnum 	 --- Return True if the string contains both numbers and chars
+	* Isalpha 	 --- Return True if the string contains only chars
+	* Isnumeric  --- Return True if the string contains only numbers
+	* Istitle 	 --- Return True if the string is capitalized
+	* Isupper 	 --- Return True if the string contains all capitalized letter
+	* Islower 	 --- Return True if Isupper or Istitle return False.
+	* Join 		 --- Create a string from an iterable.
+	* Ljust 	 --- Return a left-justified string 
+	* Lower 	 --- Make the string lower
+	* Upper 	 --- Make the string upper
+	* Replace 	 --- Replace an old subtring with a new one
+	* Split 	 --- Create an iterable from a given string
+	* Startswith --- The opposite of Endswith
+	* Strip 	 --- Return a string with no external space char
