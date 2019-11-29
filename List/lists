@@ -1,0 +1,12 @@
+Argomenti Lezione 1:
+	- Struttura della lista
+		* Sintassi
+		* Contenuto di ogni tipo
+		* Differenze con le stringhe
+	- Proprietà delle liste
+		* Ordinamento non in-structure
+		* Indexing
+		* Estensibilità
+	- Ciclare sulle liste
+		* For loop
+		* While loop
